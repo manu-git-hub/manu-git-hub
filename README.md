@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-
+<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" />
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="manu-git-hub" /> </p>
