@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <div style="max-width: 100%; max-height: 100%; overflow: hidden;">
-<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" />
+<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" style="width: 100%; height: auto;" />
 </div>
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
