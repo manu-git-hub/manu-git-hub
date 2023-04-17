@@ -14,7 +14,7 @@
     }
   </style>
   <div class="image-container">
-<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" style="width: 100%; height: auto;" />
+<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" />
 </div>
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
