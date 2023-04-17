@@ -2,19 +2,8 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<style>
-    .image-container {
-      max-width: 100%;
-      max-height: 100%;
-      overflow: hidden;
-    }
-    .image-container img {
-      width: 100%;
-      height: auto;
-    }
-  </style>
-  <div class="image-container">
-<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" />
+<div style="max-width: 100%; max-height: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+<img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="Your Image" width="100%" height="100%" style="object-fit: cover; object-position: center;" />
 </div>
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
