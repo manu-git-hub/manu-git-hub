@@ -6,11 +6,12 @@
 <img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="Your Image" width="100%" height="500" style="object-fit: cover; object-position: center;" />
 </div>
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" style="display: inline-block; margin-right: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub" style="display: inline-block;">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" style="float: left; margin-right: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="float: right;">
+    <img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub">
   </a>
 </p>
+
 
 
 - 🔭 I’m currently working on **Python Odoo Developer**
