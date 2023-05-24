@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manu-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="manu-git-hub" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub" width="300" height="150"  /></a> </p>
 
 - 🔭 I’m currently working on **Python Odoo Developer**
 
