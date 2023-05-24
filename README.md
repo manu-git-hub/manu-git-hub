@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manu-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="manu-git-hub" /> </p>
 <div style="max-width: 100%; max-height: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
 <img src="http://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="Your Image" width="100%" height="500" style="object-fit: cover; object-position: center;" />
 </div>
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<p align="center"><img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manu-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="manu-git-hub" /> </p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub"/></a>
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub" alt="manu-git-hub"/></a></p>
 
 - 🔭 I’m currently working on **Python Odoo Developer**
 
