@@ -20,10 +20,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="coding animation" width="600" style="border-radius: 10px;"/>
-</div>
-
 <br>
 
 ### 👨‍💻 About Me
