@@ -24,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-I am a results-driven Software Developer with a Master's degree in Cloud Computing from the University of East London[cite: 4, 21, 22]. I specialize in backend engineering, building highly scalable, secure, and distributed systems. My expertise lies in architecting robust APIs, optimizing database performance, and streamlining cloud deployments to drive business success[cite: 6].
+I am a results-driven Software Developer with a Master's degree in Cloud Computing from the University of East London. I specialize in backend engineering, building highly scalable, secure, and distributed systems. My expertise lies in architecting robust APIs, optimizing database performance, and streamlining cloud deployments to drive business success.
 
 - 🎓 **Education:** Master's in Cloud Computing, University of East London.
 - 💡 **Core Focus:** Advanced Backend Engineering, System Design, Microservices Architecture, and Distributed Systems.
-- ⚙️ **Expertise:** Crafting high-performance APIs, implementing caching strategies, message brokering, and secure cloud infrastructure on AWS[cite: 11, 34].
+- ⚙️ **Expertise:** Crafting high-performance APIs, implementing caching strategies, message brokering, and secure cloud infrastructure on AWS.
 - 🚀 **Goal:** Designing and deploying fault-tolerant backend architectures that seamlessly scale to millions of users.
 - ⚡ **Fun fact:** `while(alive) { code(); deploy(); scale(); }`
 
