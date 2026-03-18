@@ -76,7 +76,7 @@ I am a results-driven Software Developer with a Master's degree in Cloud Computi
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Frontend (Full-Stack Capability)**<br>
+**Frontend Full-Stack Capability**<br>
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -96,14 +96,11 @@ I am a results-driven Software Developer with a Master's degree in Cloud Computi
 
 <br>
 
-### 🏆 GitHub Trophies
+### 💡 Developer Wisdom
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api?username=manu-git-hub&show_icons=true&locale=en" alt="Trophies" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </p>
 
----
 <p align="center">
   <i>Architecting the future of the web, one optimal microservice at a time.</i>
 </p>
