@@ -99,7 +99,7 @@ I am a results-driven Software Developer with a Master's degree in Cloud Computi
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manu-git-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=manu-git-hub&show_icons=true&locale=en" alt="Trophies" />
   </a>
 </p>
 
